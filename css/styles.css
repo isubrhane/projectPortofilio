@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman', Times, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+
+h3 {
+    color: black;
+    background-color: rgba(193, 209, 214, 0.459);
+}
+
+h2 {
+    
+    color: #3046C5;
+}
+
+header h2 {
+    color: rgb(28, 31, 31);
+    margin-top: 20px;
+    font-size: 5rem;
+    
+    
+}
+
+.site-footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 15px;
+    /* background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B); */
+    background-color: #B7950B ;
+
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 100px;
+   
+}
+
+.navbar {
+    background-color: black;
+}
+
+.jumbotron {
+    margin: 0;
+} 
+
+.logo {
+    border: 5px  solid rgb(22, 21, 21);
+    border-radius: 50%;
+}
